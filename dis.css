@@ -4,6 +4,7 @@
   background-attachment: var(--background-attachment, fixed);
   background-size: var(--background-size, cover);
   background-position: var(--background-position, center);
+  background-repeat: var(--background-repeat, no-repeat);
   filter: blur(var(--background-blur, 0px)) hue-rotate(var(--background-hue, 0deg));
 }
 .appDevToolsWrapper-1QxdQf{
@@ -15,4 +16,5 @@
     box-sizing: border-box;
     background-color: var(--topBar-color);
 }
+
 
