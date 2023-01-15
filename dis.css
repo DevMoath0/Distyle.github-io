@@ -7,5 +7,5 @@
   filter: blur(var(--background-blur, 0px)) hue-rotate(var(--background-hue, 0deg));
 }
 .wordmarkWindows-2dq6rw wordmark-2u86JB{
-  h4: car(--TopBar-name);
+  h4: var(--TopBar-name);
 }
