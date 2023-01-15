@@ -16,5 +16,11 @@
     box-sizing: border-box;
     background-color: var(--topBar-color);
 }
+.homeIcon-r0w4ny{
+  background-color: transparent !important;
+  background-image: var(--homeImage);
+  background-repeat: var(--homeImage-repeat);
+  background-size: var(--homeImage-size);
+}
 
 
