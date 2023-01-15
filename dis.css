@@ -6,6 +6,6 @@
   background-position: var(--background-position, center);
   filter: blur(var(--background-blur, 0px)) hue-rotate(var(--background-hue, 0deg));
 }
-.homeIcon-r0w4ny{
-  background: var(--home-icon);
+.icon-3AqZ2e{
+ background-color: rgba(0,0,0,.3);
 }
