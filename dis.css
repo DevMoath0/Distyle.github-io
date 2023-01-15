@@ -22,11 +22,3 @@
   background-repeat: var(--homeImage-repeat);
   background-size: var(--homeImage-size);
 }
-.childWrapper-1j_1ub{
-  background-color: transparent;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-image: var(--homeImage);
-  background-size: var(--homeImageSize);
-  background-clip: border-box
-}
