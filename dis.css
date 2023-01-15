@@ -6,6 +6,8 @@
   background-position: var(--background-position, center);
   filter: blur(var(--background-blur, 0px)) hue-rotate(var(--background-hue, 0deg));
 }
-.wordmarkWindows-2dq6rw wordmark-2u86JB{
-  h4: var(--TopBar-name);
+.homeIcon-r0w4ny{
+  width: 100%;
+  height: 100%;
+  background: var(--home-icon);
 }
