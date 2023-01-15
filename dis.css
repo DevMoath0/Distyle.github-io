@@ -6,6 +6,9 @@
 .appDevToolsWrapper-1QxdQf{
   margin: 50px;
 }
-typeWindows-2-g3UY withFrame-2dL45i titleBar-1it3bQ horizontalReverse-2QssvL flex-3BkGQD directionRowReverse-HZatnx justifyStart-2Mwniq alignStretch-Uwowzr{
- background-color: #7fffd4;
+.typeWindows-2-g3UY {
+    padding: 5px 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: var(--topBar-color);
 }
