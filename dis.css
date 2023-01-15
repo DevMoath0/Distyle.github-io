@@ -7,5 +7,8 @@
   filter: blur(var(--background-blur, 0px)) hue-rotate(var(--background-hue, 0deg));
 }
 .icon-3AqZ2e{
- background-color: rgba(0,0,0,.3);
+ background-color: var(--icon-color);
+}
+.container-1eFtFS{
+  background-image: var(--Fullbackground-image);
 }
