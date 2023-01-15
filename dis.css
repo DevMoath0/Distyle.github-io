@@ -1,20 +1,11 @@
 .chatContent-3KubbW{
   background-image: var(--background-image);
   background-color: transparent;
-  background-attachment: var(--background-attachment, fixed);
-  background-size: var(--background-size, cover);
-  background-position: var(--background-position, center);
   filter: blur(var(--background-blur, 0px)) hue-rotate(var(--background-hue, 0deg));
-}
-.icon-3AqZ2e{
- background-color: var(--icon-color);
-}
-.container-1eFtFS{
-  background-image: var(--Fullbackground-image);
-}
-.sidebar-1tnWFu{
-  background-image: var(--Chatbackground-image);
 }
 .appDevToolsWrapper-1QxdQf{
   margin: 50px;
+}
+typeWindows-2-g3UY withFrame-2dL45i titleBar-1it3bQ horizontalReverse-2QssvL flex-3BkGQD directionRowReverse-HZatnx justifyStart-2Mwniq alignStretch-Uwowzr{
+ background-color: #7fffd4;
 }
